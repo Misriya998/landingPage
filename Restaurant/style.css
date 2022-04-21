@@ -1,8 +1,19 @@
 .jumbotron{
     background-image: url("https://www.rokaakor.com/wp-content/uploads/2018/11/Large-Boat-Platter-Of-Sushi.jpg");
     background-repeat: no-repeat;
-    /* background-position: center; */
-    background-size: contain;
-
+    background-position: center; 
+    background-size: cover;
+    height: 60vh;
+    margin: 25px 10px;
+    padding: 10px;
 
 }
+ .pic{
+    border: 5px solid #555; 
+    display: inline-block;
+  margin: 25px 10px;
+  }
+  body {
+    background-color: rgb(218, 177, 10);
+    color:white;
+  }
