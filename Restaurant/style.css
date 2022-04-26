@@ -5,13 +5,26 @@
     background-size: cover;
     height: 60vh;
     margin: 25px 10px;
-    padding: 10px;
+    /* padding: 10px; */
+    text-align: center;
+    padding-left: 8ch;
+    padding-right: 8ch;
+    padding-top: 8ch;
 
+}
+
+
+
+.jumbotron p {
+  font-weight: 600;
+  font-size: larger;
+  color:rgb(255, 255, 255);
 }
  .pic{
     border: 5px solid #555; 
     display: inline-block;
-  margin: 25px 10px;
+    margin: 25px 10px;
+
   }
   body {
     background-color: rgb(218, 177, 10);
