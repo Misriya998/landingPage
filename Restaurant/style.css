@@ -30,3 +30,9 @@
     background-color: rgb(218, 177, 10);
     color:white;
   }
+
+.form{
+  padding-left: 12ch;
+  padding-right: 12ch;
+  padding-bottom: 6ch;
+}
